@@ -1,0 +1,106 @@
+body{
+  text-align: center;
+  font-family: Verdana, Sans-serif;
+  background-color: #8a71c9;
+  color: #ffffff;
+  margin: 0px 0px 30px 0px;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+}
+
+h2{
+  color: #2a0074;
+  font-size: 40px;
+}
+
+h3{
+  font-size: 22px;
+  font-style: unset;
+}
+
+section{
+  width: 60%;
+  margin: 0 auto;
+}
+
+section section{
+  width: 100%;
+}
+
+p{
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+img{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a:link{
+  text-decoration: none;
+  color: #99ffff;
+  font-weight: 700;
+}
+
+a:visited{
+  color: #99ffff;
+}
+
+a:hover{
+  color: hotpink;
+}
+
+.titulo-verde{
+  color: #1b7026;
+}
+
+.titulo-azul{
+  color: #1a56ed;
+}
+
+.titulo-rosa{
+  color: #8a126c;
+}
+
+.principal{
+  background-color: #ff6cb5;
+  height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 60px;
+}
+
+.principal a{
+  color: #fff;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+button{
+  background-color: #41f341;
+  border: 1px transparent solid;
+  padding: 2px 10px;
+  border-radius: 3px;
+}
+
+label{
+  font-size: 15px;
+}
+
+input{
+  width: 20%;
+}
